@@ -1,5 +1,5 @@
 
-# Chauwk Assistance Chatbot
+# CHAUWK Assistance Chatbot
 
 This is a RAG system to assist blue-collar workers in developing countries who are searching for job positions and relevant government schemes. This folder holds custom code for a chatbot that answers questions in both text and speech input about local PDF data. Users can converse with the bot in Indian languages with the help of Bhashini API.
 
